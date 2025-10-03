@@ -1,0 +1,990 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Eduardo Alexander Ramírez Orozco.</title>
+        <!-- Favicon-->
+        <link rel="icon" type="image/x-icon" href="assets/img/portfolio/favicon.ico"/>
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js" crossorigin="anonymous"></script>
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700" rel="stylesheet" type="text/css" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body id="page-top">
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
+            <div class="container">
+               
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                    Menu
+                    <i class="fas fa-bars ms-1"></i>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarResponsive">
+                    <ul class="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
+                        <li class="nav-item"><a class="nav-link" href="#services">Servicios</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#portfolio">Portfolio</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#about">Nuestro mundo</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#contact">Contacto</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <!-- Masthead-->
+        <header class="masthead">
+            <div class="container">
+                <div class="masthead-subheading">Bienvenido(a) a la mejor tienda de dispositivos...  </div>
+                <div class="masthead-heading text-uppercase">InfinityPhone </div>
+                <a class="btn btn-primary btn-xl text-uppercase" href="#services">Descubre acerca sobre nosotros</a>
+            </div>
+        </header>
+        <!-- Services-->
+        <section class="page-section" id="services">
+            <div class="container">
+                <div class="text-center">
+                    <h2 class="section-heading text-uppercase">Servicios</h2>
+                    <h3 class="section-subheading text-muted">Los mejores modelos, al alcance de un clic..</h3>
+                </div>
+                <div class="row text-center">
+                    <div class="col-md-4">
+                        <span class="fa-stack fa-4x">
+                            <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                           <i class="fas fa-mobile-alt fa-stack-1x fa-inverse"></i>
+                        </span>
+                        <h4 class="my-3">Comercio Electronico</h4>
+                        <p class="text-muted">El e-commerce transforma la manera de comprar y vender, conectando al mundo con solo un clic.</p>
+                    </div>
+                    <div class="col-md-4">
+                        <span class="fa-stack fa-4x">
+                            <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                            <i class="fas fa-tablet-screen-button fa-stack-1x fa-inverse"></i>
+                        </span>
+                        <h4 class="my-3">Diseño Aceptable</h4>
+                        <p class="text-muted">Design: una web que se adapta a ti, sin importar el dispositivo que uses..</p>
+                    </div>
+                    <div class="col-md-4">
+                        <span class="fa-stack fa-4x">
+                            <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                            <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
+                        </span>
+                        <h4 class="my-3">Seguridad Web</h4>
+                        <p class="text-muted">Protege tu información, navega seguro: la seguridad web es tu mejor defensa en línea.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Portfolio Grid-->
+        <section class="page-section bg-light" id="portfolio">
+            <div class="container">
+                <div class="text-center">
+                    <h2 class="section-heading text-uppercase">Portfolio</h2>
+                    <h3 class="section-subheading text-muted">Si estás buscando el celular perfecto al mejor precio y con la mejor calidad, este es el lugar indicado. Aquí encontrarás una amplia variedad de smartphones de las marcas más reconocidas, modelos nuevos y actualizados.
+
+Nos enfocamos en ofrecerte un servicio confiable, rápido y seguro, para que puedas comprar tu próximo celular desde la comodidad de tu hogar. 
+
+¡Explora nuestro catálogo y descubre las ofertas que tenemos para ti! Tu próximo smartphone está a solo un clic de distancia. 📲</h3>
+                </div>
+                <div class="row">
+                    <div class="col-lg-4 col-sm-6 mb-4">
+                        <!-- Portfolio item 1-->
+                        <div class="portfolio-item">
+                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal1">
+                                <div class="portfolio-hover">
+                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+                                </div>
+                                <img class="img-fluid" src="ASsets/img/portfolio/SAMSUMG.1.png" alt="..." />
+                            </a>
+                            <div class="portfolio-caption">
+                                <div class="portfolio-caption-heading">SAMSUNG</div>
+                                <div class="portfolio-caption-subheading text-muted"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-6 mb-4">
+                        <!-- Portfolio item 2-->
+                        <div class="portfolio-item">
+                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal2">
+                                <div class="portfolio-hover">
+                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+                                </div>
+                                <img class="img-fluid" src="assets/img/portfolio/apple.jpg" alt="..." />
+                            </a>
+                            <div class="portfolio-caption">
+                                <div class="portfolio-caption-heading">APPLE</div>
+                                <div class="portfolio-caption-subheading text-muted"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-6 mb-4">
+                        <!-- Portfolio item 3-->
+                        <div class="portfolio-item">
+                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal3">
+                                <div class="portfolio-hover">
+                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+                                </div>
+                                <img class="img-fluid" src="assets/img/portfolio/Pixel.webp" alt="..." />
+                            </a>
+                            <div class="portfolio-caption">
+                                <div class="portfolio-caption-heading">Google (PIxel)</div>
+                                <div class="portfolio-caption-subheading text-muted"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-6 mb-4 mb-lg-0">
+                        <!-- Portfolio item 4-->
+                        <div class="portfolio-item">
+                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal4">
+                                <div class="portfolio-hover">
+                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+                                </div>
+                                <img class="img-fluid" src="assets/img/portfolio/xiaomi.jpg" alt="..." />
+                            </a>
+                            <div class="portfolio-caption">
+                                <div class="portfolio-caption-heading">Xiaomi</div>
+                                <div class="portfolio-caption-subheading text-muted"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-6 mb-4 mb-sm-0">
+                        <!-- Portfolio item 5-->
+                        <div class="portfolio-item">
+                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal5">
+                                <div class="portfolio-hover">
+                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+                                </div>
+                                <img class="img-fluid" src="assets/img/portfolio/Huawei.png" />
+                            </a>
+                            <div class="portfolio-caption">
+                                <div class="portfolio-caption-heading">Huawei</div>
+                                <div class="portfolio-caption-subheading text-muted"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-6">
+                        <!-- Portfolio item 6-->
+                        <div class="portfolio-item">
+                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal6">
+                                <div class="portfolio-hover">
+                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+                                </div>
+                                <img class="img-fluid" src="assets/img/portfolio/oppo.webp" />
+                            </a>
+                            <div class="portfolio-caption">
+                                <div class="portfolio-caption-heading">OPPO</div>
+                                <div class="portfolio-caption-subheading text-muted"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- About-->
+        <section class="page-section" id="about">
+            <div class="container">
+                <div class="text-center">
+                    <h2 class="section-heading text-uppercase">Acerca de </h2>
+                    <h3 class="section-subheading text-muted"></h3>TRANSFORMACION DE LOS SMARTPHONE </h3>
+                </div>
+                <ul class="timeline">
+                    <li>
+                        <div class="timeline-image"><img class=" img-fluid" src="assets/img/about/Cooper.webp" alt="..." /></div>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h4>1973-1989</h4>
+                                <h4 class="subheading">Inicios</h4>
+                            </div>
+                            <div class="timeline-body"><p class="text-muted">1973: Martin Cooper de Motorola realiza la primera llamada desde un teléfono móvil portátil.
+
+1983: Se lanza el primer celular comercial, el Motorola DynaTAC 8000X.
+
+Características: grandes, pesados, batería limitada y uso exclusivo para llamadas.</p></div>
+                        </div>
+                    </li>
+                    <li class="timeline-inverted">
+                        <div class="timeline-image"><img class=" img-fluid" src="assets/img/about/2g.webp" alt="..." /></div>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h4>1990-1999</h4>
+                                <h4 class="subheading">popularizacion y SMS</h4>
+                            </div>
+                            <div class="timeline-body"><p class="text-muted">Aparición de celulares más pequeños y accesibles.
+
+Introducción del SMS (mensajes de texto) en 1992.
+
+Comienzo de redes digitales como 2G, permitiendo llamadas más claras y mensajes.</p></div>
+                        </div>
+                    </li>
+                    <li>
+                         <li class="timeline-image">
+                        <div class="timeline-image"><img class=" img-fluid" src="assets/img/about/descarga.webp" alt="..." /></div>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h4>2000-2009</h4>
+                                <h4 class="subheading">La era Multimedia</h4>
+                            </div>
+                            <div class="timeline-body"><p class="text-muted">Celulares con cámara, juegos y funciones básicas de internet.
+
+Aparición de teléfonos inteligentes básicos, como los primeros BlackBerry y Nokia con Symbian.
+
+Inicio de aplicaciones y servicios de correo móvil.</p></div> 
+                        </div>
+                    </li>
+                    <li class="timeline-inverted">
+                        <div class="timeline-image">
+    <img class="img-fluid" src="assets/img/about/act.jpg" alt="..."style="border-radius: 0 !important; width: 100%; height: auto;"  />
+</div>
+
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h4>2010- Actualidad</h4>
+                                <h4 class="subheading">Smartphones y conectividad total</h4>
+                            </div>
+                            <div class="timeline-body"><p class="text-muted"></p>Expansión de smartphones con pantallas táctiles y sistemas operativos avanzados (iOS, Android).
+
+Acceso a internet, redes sociales, aplicaciones, cámaras de alta calidad y asistentes virtuales.
+
+Integración con tecnologías como 5G, IoT y realidad aumentada.</div>
+                        </div>
+                    </li>
+                    
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </section>
+        <!-- Team-->
+        <section class="page-section bg-light" id="Autor">
+            <div class="container">
+                <div class="text-center">
+                    <h3 class="section-subheading text-muted">Los mejores modelos, al alcance de un clic.</h3>
+                </div>
+                <div class="row">
+                    
+                    <div class="col-lg-4">
+                        <div class="team-member">
+                            <img class="mx-auto rounded-circle" src="assets/img/team/TEAM.jpeg" alt="..." />
+                            <h4>Eduardo Ramírez</h4>
+                            <p class="text-muted">Creador y Director</p>
+                            <a class="btn btn-dark btn-social mx-2" href="https://www.instagram.com/eduxx_xpp/" aria-label="Eduardo Ramirez Perfil"><i class="fab fa-instagram"></i></a>
+                            <a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/profile.php?id=61551945430791" aria-label="Perfil Eduardo Ramirez"><i class="fab fa-facebook-f"></i></a>
+                            <a class="btn btn-dark btn-social mx-2" href="https://www.tiktok.com/@eduu.bruh" aria-label="Perfil Eduardo Ramirez"><i class="fab fa-tiktok"></i>></i></a>
+                        </div>
+                    </div>
+                    
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-8 mx-auto text-center"><p class="large text-muted">A lo largo de este proyecto, hemos querido darte a conocer un espacio dedicado a la venta de celulares de calidad, con precios accesibles y marcas reconocidas, todo en un solo lugar y de forma fácil y segura.</p></div>
+                </div>
+            </div>
+        </section>
+        <!-- Clients-->
+        <div class="py-5">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-md-3 col-sm-6 my-3">
+                        <a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="assets/img/logos/microsoft.svg" alt="..." aria-label="Microsoft Logo" /></a>
+                    </div>
+                    <div class="col-md-3 col-sm-6 my-3">
+                        <a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="assets/img/logos/google.svg" alt="..." aria-label="Google Logo" /></a>
+                    </div>
+                    <div class="col-md-3 col-sm-6 my-3">
+                        <a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="assets/img/logos/facebook.svg" alt="..." aria-label="Facebook Logo" /></a>
+                    </div>
+                    <div class="col-md-3 col-sm-6 my-3">
+                        <a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="assets/img/logos/ibm.svg" alt="..." aria-label="IBM Logo" /></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Contact-->
+        <section class="page-section" id="contact">
+            <div class="container">
+                <div class="text-center">
+                    <h2 class="section-heading text-uppercase">Contáctenos</h2>
+                    <h3 class="section-subheading text-muted">Los mejores modelos, al alcance de un clic.</h3>
+                </div>
+                <!-- * * * * * * * * * * * * * * *-->
+                <!-- * * SB Forms Contact Form * *-->
+                <!-- * * * * * * * * * * * * * * *-->
+                <!-- This form is pre-integrated with SB Forms.-->
+                <!-- To make this form functional, sign up at-->
+                <!-- https://startbootstrap.com/solution/contact-forms-->
+                <!-- to get an API token!-->
+           <form action="mailto:edualex.oro@gmail.com" method="POST">
+    <div class="row align-items-stretch mb-5">
+        <div class="col-md-6">
+            <div class="form-group">
+                <!-- Name input-->
+                <input class="form-control" id="name" type="text" name="name" placeholder="Tú Nombre *" required />
+                <div class="invalid-feedback">Tú nombre es requerido.</div>
+            </div>
+            <div class="form-group">
+                <!-- Email address input-->
+                <input class="form-control" id="email" type="email" name="email" placeholder="Tú Email *" required />
+                <div class="invalid-feedback">Tú email es requerido.</div>
+                <div class="invalid-feedback">Email no es válido.</div>
+            </div>
+            <div class="form-group mb-md-0">
+                <!-- Phone number input-->
+                <input class="form-control" id="phone" type="tel" name="phone" placeholder="Teléfono *" required />
+                <div class="invalid-feedback">Su número es requerido.</div>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="form-group form-group-textarea mb-md-0">
+                <!-- Message input-->
+                <textarea class="form-control" id="message" name="message" placeholder="Tú mensaje *" required></textarea>
+                <div class="invalid-feedback">El mensaje es requerido.</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Opciones ocultas de FormSubmit -->
+    <input type="hidden" name="_next" value="https://tusitio.com/gracias.html"> <!-- redirección tras enviar -->
+    <input type="hidden" name="_captcha" value="false"> <!-- quita captcha -->
+
+    <div class="text-center">
+        <button class="btn btn-primary btn-xl text-uppercase" type="submit">Enviar Mensaje</button>
+    </div>
+</form>
+                    
+                    <!-- Submit error message-->
+                    <!---->
+                    <!-- This is what your users will see when there is-->
+                    <!-- an error submitting the form-->
+                    <div class="d-none" id="submitErrorMessage"><div class="text-center text-danger mb-3">Error al enviar el mensaje!</div></div>
+                    <!-- Submit Button-->
+                    <div class="text-center"><button class="btn btn-primary btn-xl text-uppercase disabled" id="submitButton" type="submit">Enviar mensaje</button></div>
+                </form>
+            </div>
+        </section>
+        <!-- Footer-->
+        <footer class="footer py-4">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-4 text-lg-start">Derecho de autor &copy; Eduardo Ramirez</div>
+                    <div class="col-lg-4 my-3 my-lg-0">
+                        <a class="btn btn-dark btn-social mx-2" href="https://www.instagram.com/eduxx_xpp/" aria-label="Instragram"><i class="fab fa-instagram"></i></a>
+                        <a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/profile.php?id=61551945430791" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
+                        <a class="btn btn-dark btn-social mx-2" href="https://www.tiktok.com/@eduu.bruh" aria-label="Tik tok"><i class="fab fa-tiktok"></i></a>
+                    </div>
+                    <div class="col-lg-4 text-lg-end">
+                        <a class="link-dark text-decoration-none me-3" href="#!">Política de Privacidad </a>
+                        <a class="link-dark text-decoration-none" href="#!">Terminos de Uso</a>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- Portfolio Modals-->
+        <!-- Portfolio item 1 modal popup-->
+        <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-8">
+                                <div class="modal-body">
+                                    <!-- Project details-->
+                                    <h2 class="text-uppercase">SAMSUNG</h2>
+                                    <p class="item-intro text-muted">País de origen: Corea del Sur
+
+Fundación: 1938
+
+Descripción: Samsung es una de las marcas líderes a nivel mundial en tecnología móvil. Su línea Galaxy abarca desde teléfonos de gama alta (S, Note, Z Fold) hasta modelos de gama media y baja (A, M).
+
+Enfoque: Innovación tecnológica, pantallas AMOLED de alta calidad, cámaras avanzadas y dispositivos plegables.
+
+Diferenciadores:
+
+Pantallas con alta resolución y tasa de refresco.
+
+Teléfonos resistentes al agua y polvo (IP68).
+
+Ecosistema completo con tabletas, wearables y electrodomésticos conectados..</p>
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/samsumg2.jpg"... />
+                                  <strong> Samsung Galaxy S25</strong>
+                                     <p class="item-intro text-muted">Pantalla: Dynamic AMOLED 2X de 6.8", resolución QHD+ (3200 x 1440 píxeles), tasa de refresco de 120 Hz.
+
+Procesador: Exynos 2400 o Snapdragon 8 Gen 3 (según región).
+
+Cámara trasera: Triple: 200 MP (principal), 12 MP (ultra gran angular), 10 MP (telefoto con zoom óptico 10x).
+
+Batería: 5,000 mAh con carga rápida de 45W.
+
+Sistema operativo: One UI 7 basado en Android 15.
+
+Precio aproximado: Desde $1,299 USD.</p>
+
+                                    
+                                   <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/S25.webp" alt="..." /> 
+
+                                    <ul class="list-inline">
+                                        <li>
+                                             <strong> Samsung Galaxy s24</strong>
+                                     <p class="item-intro text-muted">Pantalla: Dynamic AMOLED 2X de 6.6", resolución FHD+ (2340 x 1080 píxeles), tasa de refresco de 120 Hz.
+
+Procesador: Exynos 2200 o Snapdragon 8 Gen 2 (según región).
+
+Cámara trasera: Triple: 50 MP (principal), 12 MP (ultra gran angular), 10 MP (telefoto con zoom óptico 3x).
+
+Batería: 4,800 mAh con carga rápida de 45W.
+
+Sistema operativo: One UI 6 basado en Android 14.
+
+Precio aproximado: Desde $1,099 USD.</p>
+ <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/S24.avif" alt="..." />
+
+  <strong> Samsung Galaxy S23</strong>
+                                     <p class="item-intro text-muted">Pantalla: Dynamic AMOLED 2X de 6.1", resolución FHD+ (2340 x 1080 píxeles), tasa de refresco de 120 Hz.
+
+Procesador: Snapdragon 8 Gen 2 para Galaxy.
+
+Cámara trasera: Triple: 50 MP (principal), 12 MP (ultra gran angular), 10 MP (telefoto con zoom óptico 3x).
+
+Batería: 3,900 mAh con carga rápida de 25W.
+
+Sistema operativo: One UI 5.1 basado en Android 13.
+
+Precio aproximado: Desde $799 USD.</p>
+ <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/S23.jpg" alt="..." />
+
+  <strong> Samsung Galaxy S22</strong>
+                                     <p class="item-intro text-muted">Pantalla: Dynamic AMOLED 2X de 6.1", resolución FHD+ (2340 x 1080 píxeles), tasa de refresco de 120 Hz.
+
+Procesador: Exynos 2200 o Snapdragon 8 Gen 1 (según región).
+
+Cámara trasera: Triple: 50 MP (principal), 12 MP (ultra gran angular), 10 MP (telefoto con zoom óptico 3x).
+
+Batería: 3,700 mAh con carga rápida de 25W.
+
+Sistema operativo: One UI 4.1 basado en Android 12.
+
+Precio aproximado: Desde $799 USD.</p>
+ <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/S22.webp" alt="..." />
+
+
+  <strong> Samsung Galaxy S21</strong>
+                                     <p class="item-intro text-muted">antalla: Dynamic AMOLED 2X de 6.2", resolución FHD+ (2400 x 1080 píxeles), tasa de refresco de 120 Hz.
+
+Procesador: Exynos 2100 o Snapdragon 888 (según región).
+
+Cámara trasera: Triple: 12 MP (principal), 64 MP (telefoto con zoom híbrido 3x), 12 MP (ultra gran angular).
+
+Batería: 4,000 mAh con carga rápida de 25W.
+
+Sistema operativo: One UI 3.1 basado en Android 11.
+
+Precio aproximado: Desde $799 USD.</p>
+ <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/S21.webp" alt="..." />
+
+
+
+                                            
+                            
+                                        </li>
+                                        <li>
+                                           
+                                        </li>
+                                    </ul>
+                                    <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
+                                        <i class="fas fa-xmark me-1"></i>
+                                        Close Project
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Portfolio item 2 modal popup-->
+        <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-8">
+                                <div class="modal-body">
+                                    <!-- Project details-->
+                                    <h2 class="text-uppercase">APPLE</h2>
+                                    
+                                    
+                                  
+                                     <p class="item-intro text-muted">País de origen: Corea del Sur
+
+•	País de origen: Estados Unidos
+•	Fundación: 1976
+•	Descripción: Apple es famosa por sus teléfonos iPhone, que combinan hardware y software diseñados por la misma compañía.
+•	Enfoque: Experiencia de usuario, diseño premium, ecosistema cerrado y actualización constante de software.
+•	Diferenciadores:
+o	Sistema operativo iOS exclusivo.
+o	Actualizaciones de software durante muchos años.
+o	Integración con otros dispositivos Apple (Mac, iPad, Apple Watch, AirPods).
+</p>
+
+                                    
+                                   <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/APPLE2.jpg" alt="..." /> 
+                                   <strong> 1.	iPhone 17 Pro Max1</strong>
+                                     <p class="item-intro text-muted">	Pantalla: OLED Super Retina XDR de 6.7", resolución 2796 x 1290 píxeles, tasa de refresco adaptativa de hasta 120 Hz.
+o	Procesador: A17 Bionic.
+o	Cámara trasera: Triple: 48 MP (principal), 12 MP (ultra gran angular), 12 MP (telefoto con zoom óptico 5x).
+o	Batería: Hasta 29 horas de reproducción de video.
+o	Sistema operativo: iOS 17.
+o	Precio aproximado: Desde $1,499 USD.
+</p>
+
+                                    
+                                   <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/17max.webp" alt="..." /> 
+                                   <strong>iPhone 17 Pro  </strong>
+                                     <p class="item-intro text-muted">o	Pantalla: OLED Super Retina XDR de 6.1", resolución 2532 x 1170 píxeles, tasa de refresco adaptativa de hasta 120 Hz.
+o	Procesador: A17 Bionic.
+o	Cámara trasera: Triple: 48 MP (principal), 12 MP (ultra gran angular), 12 MP (telefoto con zoom óptico 3x).
+o	Batería: Hasta 23 horas de reproducción de video.
+o	Sistema operativo: iOS 17.
+o	Precio aproximado: Desde $1,299 USD.
+
+
+</p>
+
+                                    
+                                   <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/17pro.jpg" alt="..." /> 
+                                   <strong> iphone 17 </strong>
+                                     <p class="item-intro text-muted">o	Pantalla: OLED Super Retina XDR de 6.1", resolución 2532 x 1170 píxeles, tasa de refresco estándar de 60 Hz.
+o	Procesador: A17 Bionic.
+o	Cámara trasera: Dual: 48 MP (principal), 12 MP (ultra gran angular).
+o	Batería: Hasta 20 horas de reproducción de video.
+o	Sistema operativo: iOS 17.
+o	Precio aproximado: Desde $799 USD.
+</p>
+
+                                    
+                                   <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/17.jpg" alt="..." /> 
+                                   <strong> iPhone 16 pro max</strong>
+                                     <p class="item-intro text-muted">o	Pantalla: OLED Super Retina XDR de 6.7", resolución 2796 x 1290 píxeles, tasa de refresco adaptativa de hasta 120 Hz.
+o	Procesador: A16 Bionic.
+o	Cámara trasera: Triple: 48 MP (principal), 12 MP (ultra gran angular), 12 MP (telefoto con zoom óptico 5x).
+o	Batería: Hasta 28 horas de reproducción de video.
+o	Sistema operativo: iOS 16.
+o	Precio aproximado: Desde $1,399 USD.
+
+
+</p>
+
+                                    
+                                   <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/16max.jpeg" alt="..." /> 
+                                   <strong> iPhone 16 pro </strong>
+                                     <p class="item-intro text-muted">o	Pantalla: OLED Super Retina XDR de 6.1", resolución 2532 x 1170 píxeles, tasa de refresco estándar de 60 Hz.
+o	Procesador: A16 Bionic.
+o	Cámara trasera: Dual: 48 MP (principal), 12 MP (ultra gran angular).
+o	Batería: Hasta 20 horas de reproducción de video.
+o	Sistema operativo: iOS 16.
+o	Precio aproximado: Desde $799 USD.
+
+
+
+</p>
+
+                                    
+                                   <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/pro.jpg" alt="..." /> 
+                                  
+                                  
+                                  
+                                            
+                                        </li>
+                                        <li>
+                                            
+                                        </li>
+                                    </ul>
+                                    <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
+                                        <i class="fas fa-xmark me-1"></i>
+                                        Close Project
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Portfolio item 3 modal popup-->
+        <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-8">
+                                <div class="modal-body">
+                                    <!-- Project details-->
+                                    <h2 class="text-uppercase">Google (pixel)</h2>
+                                    <p class="item-intro text-muted">•	País de origen: Estados Unidos
+•	Fundación: 1998 (Google), línea Pixel desde 2016
+•	Descripción: Los teléfonos Pixel destacan por ofrecer la experiencia pura de Android y cámaras con software de fotografía avanzada.
+•	Enfoque: Inteligencia artificial, fotografía computacional, actualizaciones rápidas de Android.
+•	Diferenciadores:
+o	Software limpio y sin capas de personalización.
+o	Funciones de IA para mejorar fotos y video.
+o	Actualizaciones de seguridad y sistema operativo inmediatas.
+</p>
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/Google.jpg" alt="..." />
+                                    <strong>	Pixel 10 Pro </strong>
+                                     <p class="item-intro text-muted">o	Pantalla: OLED 6.7" QHD+, 120 Hz
+o	Procesador: Google Tensor G4
+o	Cámaras: Triple 50 MP + 48 MP + 48 MP
+o	Batería: 5,000 mAh, carga rápida 30W
+o	Sistema: Android 18
+</p>
+
+                                    
+                                   <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/gg10pro.webp" alt="..." /> 
+                                   <strong> PIxel 10</strong>
+                                     <p class="item-intro text-muted">o	Pantalla: OLED 6.2" FHD+, 90 Hz
+o	Procesador: Tensor G4
+o	Cámaras: Dual 50 MP + 12 MP
+o	Batería: 4,500 mAh
+o	Sistema: Android 18
+</p>
+
+                                    
+                                   <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/gg10.webp" alt="..." /> 
+                                   <strong> Pixel 9 pro</strong>
+                                     <p class="item-intro text-muted">	Pantalla: OLED 6.7" QHD+, 120 Hz
+o	Procesador: Tensor G3
+o	Cámaras: Triple 50 MP + 48 MP + 48 MP
+o	Batería: 5,000 mAh
+</p>
+
+                                    
+                                   <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/9pro.jpg" alt="..." /> 
+                                   <strong> Pixel 8 pro </strong>
+                                     <p class="item-intro text-muted">o	Pantalla: OLED 6.7" QHD+, 120 Hz
+	Procesador: Tensor G3
+	Cámaras: Triple 50 MP + 48 MP + 48 MP
+	Batería: 5,000 mAh
+    Sistema: Android 14
+</p>
+
+                                    
+                                   <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/gg8pro.webp" alt="..." /> 
+                                   <strong> Pixel 8</strong>
+                                     <p class="item-intro text-muted">o	Pantalla: OLED 6.2" FHD+, 120 Hz
+	Procesador: Tensor G3o	Cámaras: Dual 50 MP + 12 MP
+	Batería: 4,575 mAh
+	Sistema: Android 14
+</p>
+
+                                    
+                                   <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/gg8.webp" alt="..." /> 
+                                    <ul class="list-inline">
+                                        <li>
+                                           
+                                        </li>
+                                        <li>
+                                           
+                                        </li>
+                                    </ul>
+                                    <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
+                                        <i class="fas fa-xmark me-1"></i>
+                                        Close Project
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Portfolio item 4 modal popup-->
+        <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-8">
+                                <div class="modal-body">
+                                    <!-- Project details-->
+                                    <h2 class="text-uppercase">Xiaomi</h2>
+                                    <p class="item-intro text-muted">	País de origen: China
+•	Fundación: 2010
+•	Descripción: Xiaomi se caracteriza por ofrecer teléfonos con buena relación calidad-precio, combinando hardware potente y precios competitivos.
+•	Enfoque: Gama media-alta con buen rendimiento, cámaras y batería grande.
+•	Diferenciadores:
+o	Sistema MIUI basado en Android, muy personalizable.
+o	Gran batería y carga rápida.
+o	Ecosistema amplio con dispositivos inteligentes para el hogar.
+</p>
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/XIAOMI.webp"... />
+                                    <strong> Xiaomi 14 Ultra</strong>
+                                     <p class="item-intro text-muted"></p>o	Pantalla: AMOLED 6.73" QHD+, 120 Hz
+o	Procesador: Snapdragon 8 Gen 3
+o	Cámaras: Cuádruple Leica 50 MP
+o	Batería: 5,000 mAh, carga 90W
+o	Sistema: HyperOS (Android 14)
+</p>
+
+                                    
+                                   <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/x14ultra.webp" alt="..." /> 
+                                   <strong> Xiaomi 14 pro</strong>
+                                     <p class="item-intro text-muted">o	Pantalla: AMOLED 6.73", 120 Hz
+o	Procesador: Snapdragon 8 Gen 3
+o	Cámaras: Triple Leica 50 MP
+o	Batería: 4,880 mAh, carga 120W
+o	Sistema: HyperOS
+</p>
+
+                                    
+                                   <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/x14pro.webp" alt="..." /> 
+                                   <strong> Xiaomi 14</strong>
+                                     <p class="item-intro text-muted">	Pantalla: AMOLED 6.36", 120 Hz
+o	Procesador: Snapdragon 8 Gen 3
+o	Cámaras: Triple Leica 50 MP
+o	Batería: 4,610 mAh
+o	Sistema: HyperOS
+</p>
+
+                                    
+                                   <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/x14.webp" alt="..." /> 
+                                   <strong> Xiaomi 13 pro</strong>
+                                     <p class="item-intro text-muted">	Pantalla: AMOLED 6.73" QHD+, 120 Hz
+o	Procesador: Snapdragon 8 Gen 2
+o	Cámaras: Triple Leica 50 MP
+o	Batería: 4,820 mAh, carga 120W
+o	Sistema: MIUI 14
+</p>
+
+                                    
+                                   <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/x13pro.webp" alt="..." /> 
+                                   <strong> Xiaomi 13 Ultra</strong>
+                                     <p class="item-intro text-muted">	Pantalla: AMOLED 6.73", 120 Hz
+o	Procesador: Snapdragon 8 Gen 2
+o	Cámaras: Cuádruple Leica 50 MP
+o	Batería: 5,000 mAh
+o	Sistema: MIUI 14
+</p>
+
+                                    
+                                   <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/x13ultra.png    " alt="..." /> 
+                                    <ul class="list-inline">
+                                        <li>
+                                           
+                                        </li>
+                                        <li>
+                                            
+                                        </li>
+                                    </ul>
+                                    <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
+                                        <i class="fas fa-xmark me-1"></i>
+                                        Close Project
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Portfolio item 5 modal popup-->
+        <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-8">
+                                <div class="modal-body">
+                                    <!-- Project details-->
+                                    <h2 class="text-uppercase">Huawei</h2>
+                                    <p class="item-intro text-muted">	País de origen: China
+•	Fundación: 1987
+•	Descripción: Huawei ha sido un referente en innovación de cámaras y conectividad, aunque actualmente enfrenta restricciones con servicios de Google en algunos países.
+•	Enfoque: Fotografía profesional, 5G, diseño premium.
+•	Diferenciadores:
+o	Cámaras con tecnología avanzada (apertura variable, zoom potente).
+o	Buen rendimiento con procesadores Kirin o Snapdragon en algunas regiones.
+o	Sistemas propios de servicios móviles Huawei (HMS).
+</p>
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/HUAWEII.webp" alt="..." />
+                                    <strong> Huawei P60 Pro</strong>
+                                     <p class="item-intro text-muted">	Pantalla: OLED 6.67" FHD+, 120 Hz
+o	Procesador: Snapdragon 8+ Gen 1 4G
+o	Cámaras: Triple 48 MP + 48 MP + 13 MP
+o	Batería: 4,815 mAh, carga 88W
+o	Sistema: HarmonyOS
+</p>
+
+                                    
+                                   <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/h60pro.webp"... /> 
+                                   <strong> Huawei Mate 50 pro</strong>
+                                     <p class="item-intro text-muted">o	Pantalla: OLED 6.74" FHD+, 120 Hz
+o	Procesador: Snapdragon 8+ Gen 1 4G
+o	Cámaras: Triple 50 MP + 13 MP + 64 MP
+o	Batería: 4,700 mAh, carga 66W
+o	Sistema: HarmonyOS
+</p>
+
+                                    
+                                   <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/hp50.webp" alt="..." /> 
+                                   <strong> Huawei P50 pro</strong>
+                                     <p class="item-intro text-muted">	Pantalla: OLED 6.6" FHD+, 120 Hz
+o	Procesador: Snapdragon 888 4G
+o	Cámaras: Cuádruple 50 MP + 40 MP + 13 MP + 64 MP
+o	Batería: 4,360 mAh, carga 66W
+o	Sistema: HarmonyOS
+</p>
+
+                                    
+                                   <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/h50pro.jpg" alt="..." /> 
+                                   <strong> Huawei Mate X3(Desplegable)</strong>
+                                     <p class="item-intro text-muted">	Pantalla: OLED 7.85" interna + 6.4" externa, 120 Hz
+o	Procesador: Snapdragon 8+ Gen 1 4G
+o	Cámaras: Triple 50 MP + 13 MP + 12 MP
+o	Batería: 4,800 mAh
+o	Sistema: HarmonyOS
+</p>
+
+                                    
+                                   <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/hx3.jpg" alt="..." /> 
+                                   <strong> Huawei Nova 11 Pro</strong>
+                                     <p class="item-intro text-muted">o	Pantalla: OLED 6.78" FHD+, 120 Hz
+o	Procesador: Snapdragon 778G 4G
+o	Cámaras: Dual 50 MP + 8 MP
+o	Batería: 4,500 mAh, carga 100W
+o	Sistema: HarmonyOS
+</p>
+
+                                    
+                                   <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/hn11.webp" alt="..." /> 
+                                    <ul class="list-inline">
+                                        <li>
+                                            
+                                        </li>
+                                        <li>
+                                            
+                                        </li>
+                                    </ul>
+                                    <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
+                                        <i class="fas fa-xmark me-1"></i>
+                                        Close Project
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Portfolio item 6 modal popup-->
+        <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-8">
+                                <div class="modal-body">
+                                    <!-- Project details-->
+                                    <h2 class="text-uppercase">OPPO</h2>
+                                    <p class="item-intro text-muted">	País de origen: China 🇨🇳
+•	Fundación: 2004
+•	Descripción: OPPO es una de las marcas de teléfonos más innovadoras del mundo. Es conocida por sus diseños elegantes, cámaras con alta tecnología, carga ultrarrápida y precios competitivos. También pertenece al mismo grupo que OnePlus, Realme y Vivo (BBK Electronics).
+•	Enfoque: Fotografía avanzada, diseño premium, rendimiento equilibrado y carga ultrarrápida.
+•	Diferenciadores:
+o	Tecnología de carga SUPERVOOC (una de las más rápidas del mercado).
+o	Cámaras con colaboración con Hasselblad en algunos modelos.
+o	Innovación en pantallas curvas y plegables.
+</p>
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/oppo.mascota.jpg" alt="..." />
+                                    <strong> OPPO Find X7 Ultra </strong>
+                                     <p class="item-intro text-muted">	Pantalla: AMOLED 6.82" QHD+, 120 Hz
+•	Procesador: Snapdragon 8 Gen 3
+•	Cámaras: Cuádruple 50 MP (principal, telefoto, ultra gran angular, periscopio)
+•	Batería: 5,000 mAh, carga SUPERVOOC 100W
+•	Sistema operativo: ColorOS (basado en Android 14)
+•	Diferente por: Fotografía profesional y potencia de gama alta.
+</p>
+
+                                    
+                                   <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/oppo7u.webp" alt="..." /> 
+                                   <strong> OPPO Find X6 Pro</strong>
+                                     <p class="item-intro text-muted">	Pantalla: AMOLED 6.82" QHD+, 120 Hz
+•	Procesador: Snapdragon 8 Gen 2
+•	Cámaras: Triple 50 MP con lente Hasselblad
+•	Batería: 5,000 mAh, carga 100W
+•	Sistema operativo: ColorOS 13
+•	Diferente por: Diseño premium y cámaras con IA avanzada.
+</p>
+
+                                    
+                                   <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/o6pro.webp" alt="..." /> 
+                                   <strong>OPPO Reno 10 Pro</strong>
+                                     <p class="item-intro text-muted">	Pantalla: AMOLED 6.74" FHD+, 120 Hz
+•	Procesador: Snapdragon 8+ Gen 1
+•	Cámaras: Triple 50 MP + 8 MP + 64 MP (telefoto)
+•	Batería: 4,700 mAh, carga SUPERVOOC 100W
+•	Sistema operativo: ColorOS 13
+•	Diferente por: Excelente cámara con zoom y gran rendimiento.
+</p>
+                                     
+
+                                    
+                                   <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/oreno10.webp" alt="..." /> 
+                                   <strong> OPPO Reno 8 Pro</strong>
+                                     <p class="item-intro text-muted">	Pantalla: AMOLED 6.7" FHD+, 120 Hz
+•	Procesador: MediaTek Dimensity 8100-Max
+•	Cámaras: Triple 50 MP + 8 MP + 2 MP
+•	Batería: 4,500 mAh, carga rápida 80W
+•	Sistema operativo: ColorOS 12.1
+</p>
+
+                                    
+                                   <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/oreno8.webp" alt="..." /> 
+                                   <strong> OPPO A98 5G</strong>
+                                     <p class="item-intro text-muted">	Pantalla: LCD 6.72" FHD+, 120 Hz
+•	Procesador: Snapdragon 695
+•	Cámaras: Triple 64 MP + 2 MP + 2 MP
+•	Batería: 5,000 mAh, carga 67W
+•	Sistema operativo: ColorOS 13
+•	Diferente por: Excelente opción de gama media con buena batería y 5G.
+
+</p>
+
+                                    
+                                   <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/OPA98.webp" alt="..." /> 
+                                        <li>
+                                           
+                                        </li>
+                                        <li>
+                                            
+                                        </li>
+                                    </ul>
+                                    <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
+                                        <i class="fas fa-xmark me-1"></i>
+                                        Close Project
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+        <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
+        <!-- * *                               SB Forms JS                               * *-->
+        <!-- * * Activate your form at https://startbootstrap.com/solution/contact-forms * *-->
+        <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
+        <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
+    </body>
+</html>
